@@ -199,7 +199,8 @@ npm run dev
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Pranamesh**
+📧 [pranamesh67@gmail.com](mailto:pranamesh67@gmail.com)
 
 ---
 
