@@ -6,6 +6,8 @@
 ![Zustand](https://img.shields.io/badge/State-Zustand-black)
 ![Recharts](https://img.shields.io/badge/Charts-Recharts-green)
 
+🚀 **Live Demo:** [https://finance-dashboard-pranamesh.vercel.app/](https://finance-dashboard-pranamesh.vercel.app/)
+
 ---
 
 ## 📌 Overview
